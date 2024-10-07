@@ -1,5 +1,5 @@
 # Real-Time-Emotion-Detection-System
-# Real-Time Emotion Detection System
+
 
 ## Overview
 This project is a real-time emotion detection system that recognizes and displays human emotions using webcam input. Leveraging deep learning models, the system analyzes facial expressions and classifies them into various emotional categories such as happy, sad, angry, surprised, and neutral. It has potential applications in user experience enhancement, mental health monitoring, and interactive entertainment.
